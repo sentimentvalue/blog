@@ -1,10 +1,12 @@
 # 유니티 디버깅하는법(초급)
+<br>
+<br>
 
 #### 1. 코드 에디터를 설치했으면 Preferences > External Tools 로 이동한 후 External Script Editor 를 선택한 코드 에디터로 설정
 
 ![](img/unity/1.png)
 
-    
+<br><br>
 
 #### 2. 코드 최적화모드를 디버그 모드로 설정
 
@@ -17,7 +19,7 @@
     2-1. 유니티 에디터가 시작할때 사용하는 모드 변경
     ![Edit > Preferences > General > Code Optimization On Startup](img/unity/3.png)
 
-    
+<br><br>    
 
 #### 3. 중단점 설정 및 에디터 연결
 
@@ -32,7 +34,8 @@
 유니티 에디터 실행시 결과
 ![중단점 설정한 코드에서 멈](img/unity/6.png)
 
-    
+<br><br>
+
 #### 4. 알면 좋은 내용
     4-1. f11-> 다음 코드 실행
     4-2. 중단점이 여러개일 시 한줄씩 넘기는게 아닌 바로 다음 중단점으로 가고싶을때는 코드 에디터 상단 메뉴바에 있는 계속 클릭
