@@ -2,14 +2,16 @@
 <br>
 <br>
 
-## 1. 코드 에디터를 설치했으면 Preferences > External Tools 로 이동한 후 External Script Editor 를 선택한 코드 에디터로 설정
+###### 1. 코드 에디터를 설치했으면 Preferences > External Tools 로 이동한 후 External Script Editor 를 선택한 코드 에디터로 설정
 
 ![](img/unity/1.png)
 
 <br>
 <br>
+<br>
+<br>
 
-## 2. 코드 최적화모드를 디버그 모드로 설정
+###### 2. 코드 최적화모드를 디버그 모드로 설정
 
 ![Unity 에디터 상태 표시줄의 오른쪽 하단에 있는 디버그 버튼 클릭](img/unity/2.png)
 
@@ -21,9 +23,11 @@
     ![Edit > Preferences > General > Code Optimization On Startup](img/unity/3.png)
 
 <br>
+<br>
+<br>
 <br>    
 
-## 3. 중단점 설정 및 에디터 연결
+###### 3. 중단점 설정 및 에디터 연결
 
 외부 코드 에디터에서 디버거가 중지되어야하는 스크립트 코드 해에 브레이크 포인트(중단점) 설정(왼쪽 숫자 옆 바 클릭)
 
@@ -38,8 +42,10 @@
 
 <br>
 <br>
+<br>
+<br>
 
-## 4. 알면 좋은 내용
+###### 4. 알면 좋은 내용
     4-1. f11-> 다음 코드 실행
     4-2. 중단점이 여러개일 시 한줄씩 넘기는게 아닌 바로 다음 중단점으로 가고싶을때는 코드 에디터 상단 메뉴바에 있는 계속 클릭
     4-3. 디버깅 완료했을 시 중단 클릭 
