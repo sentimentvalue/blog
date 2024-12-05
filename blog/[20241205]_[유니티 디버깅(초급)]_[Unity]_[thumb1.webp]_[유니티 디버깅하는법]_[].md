@@ -14,7 +14,7 @@
 
 
     2-1. 유니티 에디터가 시작할때 사용하는 모드 변경
-    ![Edit > Preferences > General > Code Optimization On Startup](3.png)
+    ![Edit > Preferences > General > Code Optimization On Startup](img/unity/3.png)
 
 
 3. 중단점 설정 및 에디터 연결
