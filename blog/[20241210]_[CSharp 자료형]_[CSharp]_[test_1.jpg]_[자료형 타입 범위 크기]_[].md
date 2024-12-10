@@ -7,36 +7,45 @@
 
 ##### 정수형
 sbyte   <br>
-   -  -128  ~  128    <br>                    
-     -    8bit 1byte<br><br>
+   -  -128  ~  128                  
+        - 8bit 1byte<br><br>
+
 byte    <br>
-   -  0  ~  255            <br>               
-     -    8bit 1byte<br><br>
+   -  0  ~  255
+        - 8bit 1byte<br><br>
+
 short   <br>
-   -  -32,768  ~  32,768     <br>             
-     -    16bit 2byte <br><br>
+   -  -32,768  ~  32,768             
+        - 16bit 2byte <br><br>
+
 ushort  <br>
-   -  0  ~  65,535            <br>            
-     -    16bit 2byte<br><br>
+   -  0  ~  65,535
+        - 16bit 2byte<br><br>
+
 int     <br>
-   -  -2,147,483,648  ~  2,147,483,647    <br>
-     -    32bit 4byte<br><br>
-uint   <br>
-   -  0  ~  4,294,967,295<br>
-     -    32bit 4byte<br><br>
+   -  -2,147,483,648  ~  2,147,483,647
+      - 32bit 4byte<br><br>
+
+uint  
+   -  0  ~  4,294,967,295
+      - 32bit 4byte<br><br>
+
 long<br>
-   -  -9,223,372,036,854,775,808  ~  9,223,372,036,854,775,807<br>
-     -    64bit 8byte<br><br>
+   -  -9,223,372,036,854,775,808  ~  9,223,372,036,854,775,807
+      - 64bit 8byte<br><br>
+
 ulong<br>
-   -  0  ~  18,446,744,073,709,551,615<br>
-     -    64bit 8byte<br>
+   -  0  ~  18,446,744,073,709,551,615
+      - 64bit 8byte<br>
 <br>
 
 ##### 실수형
 float<br>
    -  32bit 4byte<br><br>
+
 double<br>
    -  64bit 8byte<br><br>
+
 decimal<br>
    -  128bit  16byte<br>
 <br>
@@ -44,6 +53,7 @@ decimal<br>
 ##### 문자형
 char    <br>
    -  유니코드 16bit 문자<br><br>
+
 string<br>
    -  유동적(입력값 크기에 따라)<br><br>
 
