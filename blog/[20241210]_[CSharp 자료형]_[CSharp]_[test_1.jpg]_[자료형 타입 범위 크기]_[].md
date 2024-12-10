@@ -1,12 +1,11 @@
 # 자료형
 
-<br><br>
+<br>
 
-### CSharp 자료형: 타입, 범위, 크기
-<br><br>
+#### CSharp 자료형: 타입, 범위, 크기
+<br>
 
 ##### 정수형
-<br>
 sbyte   <br>
     -128  ~  128    <br>                    
         8bit 1byte<br><br>
@@ -34,7 +33,6 @@ ulong<br>
 <br>
 
 ##### 실수형
-<br>
 float<br>
     32bit 4byte<br><br>
 double<br>
@@ -44,19 +42,16 @@ decimal<br>
 <br>
 
 ##### 문자형
-<br>
 char    <br>
     유니코드 16bit 문자<br><br>
 string<br>
     유동적(입력값 크기에 따라)<br><br>
 
 ###### 논리형
-<br>
 bool<br>
     1bit<br>
 <br>
 
 ###### Object
-<br>
 모든 타입의 값을 담을 수 있다. 인스턴스 포함<br>
 남발할시 메모리 공간 낭비에 주요 범인<br>
