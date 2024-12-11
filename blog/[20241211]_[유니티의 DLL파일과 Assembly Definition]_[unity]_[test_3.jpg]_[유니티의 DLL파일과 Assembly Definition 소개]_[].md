@@ -19,3 +19,4 @@ filename에 어떤 dll에 속해있는지 알려줌
 참조하는 방법:
 참조할 스크립트 우클릭->Assembly Definition 생성 -> 이전 스크립트 Assembly Definition으로 이동->Assembly Definition References에 참조할 어셈블리데피니션 추가
 - VSCode Explorer에 프로젝트에 참조 스크립트를 추가한 라이브러리 하위폴더(Depencies/Projects)에 참조한 내역 존재
+- Assembly Definition을 통해 스파이더 구조로 마구잡이로 참조시 오류가 뜰수 있음.ㅌ
